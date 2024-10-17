@@ -1,0 +1,98 @@
+project:
+  type: website
+
+website:
+  page-navigation: true
+  title: "Data Management & Storage Best Practices for Acoustic Telemetry Data"
+  site-url: "https://rwscollab.github.io/at-data-mgmt/"
+  repo-url: https://github.com/RWSCollab/at-data-mgmt
+
+  page-footer:
+    left: "&copy; CC-By RWSC Protected Fish Species Subcommittee and ROSA, 2024"
+    right: 🐟
+
+  search:
+    location: sidebar
+    type: textbox
+
+  sidebar:
+    title: Acoustic Telemetry Data Management Best Practices
+    logo: "images/PF_ST_ROSA.png"
+    pinned: true
+    align: "center"
+    tools:
+      - icon: globe
+        href: https://rwsc.org
+        text: "rwsc.org"
+      - icon: github
+        href: https://github.com/RWSCollab/at-data-mgmt
+        text: "github"
+      - icon: cloud-download
+        href: https://rwsc.org
+        text: "download pdf"
+
+    style: "floating"
+    search: true
+    collapse-level: 1
+
+    contents:
+      - href: index.qmd
+        text: Introduction
+
+      - text: "---"
+
+      - section: 1. Planning & Coordination Steps
+        href: index.qmd#planning
+        contents:
+          - href: index.qmd#engage
+            text: I. Engage with the RWSC Protected Fish Species or Sea Turtle Subcommittees and Responsible Offshore Science Alliance
+
+          - href: index.qmd#map
+            text: II. Add acoustic telemetry instrument metadata to the RWSC Research Planning Map
+
+          - href: index.qmd#codeploy
+            text: III. Codeployment of other sensors
+
+          - href: index.qmd#participate
+            text: IV. Participate in Regional Telemetry Networks and set project to “public”
+
+          - href: index.qmd#navy
+            text: V. Navy awareness of acoustic telemetry receiver deployments on the Atlantic OCS
+
+      - text: "---"
+
+      - section: 2. Deployment & Data Collection
+        href: index.qmd#deploy
+        contents:
+          - href: index.qmd#calibrate
+            text: VI. Calibration best practices and minimum specifications
+
+          - href: index.qmd#qa
+            text: VII. Best practices for acoustic telemetry data QA/QC
+
+
+      - text: "---"
+
+      - section: 3. Analysis & Visualization
+        href: index.qmd#arv
+        contents:
+
+      - text: "---"
+
+      - section: 4. Archiving & Access
+        href: index.qmd#archive
+        contents:
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    link-external-newwindow: true
+
+filters:
+  - include-files.lua
+  - quarto
+
+
