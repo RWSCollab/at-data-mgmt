@@ -3,7 +3,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Data Management & Storage Best Practices for Acoustic Telemetry Data"
+  title: "Data Management & Storage Recommended Practices for Acoustic Telemetry Data"
   site-url: "https://rwscollab.github.io/at-data-mgmt/"
   repo-url: https://github.com/RWSCollab/at-data-mgmt
 

@@ -1,6 +1,6 @@
 ---
 title: "Acoustic Telemetry Data"
-subtitle: "Data Management & Storage Best Practices"
+subtitle: "Data Management & Storage Recommended Practices"
 title-block-banner: "#2F97D4"
 title-block-banner-color: "#FFFFFF"
 date: 2024-10-17
@@ -18,7 +18,7 @@ This is a living document that will be updated by the Subcommittee as practices 
 
 This document is also responsive to the needs and priorities articulated in the [RWSC Science Plan](https://rwsc.org/science-plan), [ROSA Offshore Wind Project Monitoring Framework and Guidelines](https://www.rosascience.org/monitoring-framework/), and several workshops and expert working group proceedings, including:
 
--   [ROSA-RWSC Acoustic Telemetry Workshop](https://rwsc.org/view-the-recording-of-our-acoustic-telemetry-workshop/), February 15, 2024, virtual
+-   [RWSC Acoustic Telemetry Workshop](https://rwsc.org/view-the-recording-of-our-acoustic-telemetry-workshop/), February 15, 2024, virtual
 
 -   [ACT Network Meeting and Offshore Wind Workshop](https://www.theactnetwork.com/meetings), June 3-6, 2024 in New Haven, CT
 
@@ -34,7 +34,9 @@ This document is also responsive to the needs and priorities articulated in the 
 
 The purpose of this document is to address the data collection, management, and storage phases of an acoustic telemetry project to ensure that while numerous individual entities may be deploying, collecting, and analyzing telemetry data as part of an offshore wind project's required fisheries or protected species monitoring plan or voluntary research, the infrastructure and information exists to facilitate future meta-analyses and syntheses of telemetry data across the U.S. Atlantic Outer Continental Shelf (OCS).
 
+::: callout-important
 This document supports a peer-reviewed publication, *in preparation*, led by Beth Bowers, SERC/ACT. The draft manuscript, "Best practices for acoustic telemetry applications to offshore wind impact assessment" will provide recommendations for acoustic telemetry applied to the offshore wind community with respect to impact monitoring for offshore wind effects or contributions to the NOAA Fisheries Federal Survey Mitigation Strategy. The paper will describe data management and governance best practices, the scientific questions that can be answered using acoustic telemetry alone or in concert with other data and technologies, key considerations for study designs, challenges associated with acoustic telemetry such as gear loss and data retrieval, and common practices that are currently used in data cleansing and analyses.
+:::
 
 The document is separated into three sections that correspond to a generic workflow for planning, deploying, and analyzing/interpreting acoustic telemetry data. Each section contains several detailed steps that were identified by ROSA and the RWSC Subcommittees.
 
@@ -54,11 +56,15 @@ In collaboration with ACT, ROSA and the Subcommittees are maintaining an underst
 
 The maps are developed from location and deployment information shared by principal investigators and ACT. The following best practices ensure that information about new and completed deployments is shared so that the maps maintain their accuracy and relevance.
 
-Share any instrument metadata using the [template provided by ACT](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ).
+::: {.callout-note icon="false"}
+## Recommended Practice
 
-Send the completed Instrument Metadata form to [admin\@rwsc.org](mailto:admin@rwsc.org) for inclusion in the Acoustic Telemetry Layer of the [RWSC Research Planning Map](http://rwsc.org/map).
+-   Share any instrument metadata using the [template provided by ACT](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ).
 
-The Research Planning Map and regional ocean data portals (https://www.northeastoceandata.org, https://portal.midatlanticocean.org) also contain data products that may assist funders and researchers in selecting locations for receiver deployment. For example, the Research Planning Map and Portals contain data products representing monthly and annual vessel traffic for several classes of vessels; commercial fishing activity; offshore wind planning and leasing areas; and bathymetry and seafloor composition information. The Subcommittees encourages users to examine these data to inform acoustic telemetry receiver deployment site selection.
+-   Send the completed Instrument Metadata form to [admin\@rwsc.org](mailto:admin@rwsc.org) for inclusion in the Acoustic Telemetry Layer of the [RWSC Research Planning Map](http://rwsc.org/map).
+:::
+
+The Research Planning Map and regional ocean data portals (<https://www.northeastoceandata.org>, <https://portal.midatlanticocean.or>g) also contain data products that may assist funders and researchers in selecting locations for receiver deployment. For example, the Research Planning Map and Portals contain data products representing monthly and annual vessel traffic for several classes of vessels; commercial fishing activity; offshore wind planning and leasing areas; and bathymetry and seafloor composition information. The Subcommittees encourages users to examine these data to inform acoustic telemetry receiver deployment site selection.
 
 ------------------------------------------------------------------------
 
@@ -72,13 +78,19 @@ In August 2022, the RWSC Sea Turtle Subcommittee recommended that acoustic telem
 
 The locations of actively deployed PAM sensors on the Atlantic OCS can be viewed in the [RWSC Research Planning Map](https://rwsc.org/map). Clicking on each point will open a popup box that indicates whether an acoustic telemetry receiver is codeployed with the PAM hydrophone.
 
+![Map showing current passive acoustic monitoring (PAM) for baleen whales deployments in U.S. Atlantic waters. The highlighted instrument location north of Georges Bank shows a codeployed VR2AR (acoustic receiver) and FPOD (sensor to detect dolphin clicks). View an interactive version of this map: https://rwsc.org/map/?link=c8XVYns3.](images/pam_at_map.png){fig-align="center"}
+
 ------------------------------------------------------------------------
 
 ### IV. Participate in Regional Telemetry Networks and set project to "public" {#participate}
 
-Participate in the regional acoustic telemetry network for the study area (e.g., Atlantic Cooperative Telemetry Network (ACT), FACT Network, Ocean Tracking Network (OTN)).
+::: {.callout-note icon="false"}
+## Recommended Practice
 
-Participation involves submitting all completed data products and metadata forms [(templates provided by ACT)](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ). Visit the ACT Network’s Data Portal, MATOS (https://matos.asascience.com), for the mid-Atlantic and Northeast U.S. or FACT (https://secoora.org/fact/) for the Southeast U.S. for more information including User Agreements.
+Participate in the regional acoustic telemetry network for the study area (e.g., Atlantic Cooperative Telemetry Network (ACT), FACT Network, Ocean Tracking Network (OTN)).
+:::
+
+Participation involves submitting all completed data products and metadata forms [(templates provided by ACT)](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ). Visit the ACT Network’s Data Portal, MATOS (<https://matos.asascience.com>), for the mid-Atlantic and Northeast U.S. or FACT (<https://secoora.org/fact>) for the Southeast U.S. for more information including User Agreements.
 
 Project data and metadata submitted to regional telemetry networks should be set to "public".
 
