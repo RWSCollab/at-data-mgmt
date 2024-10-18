@@ -57,7 +57,7 @@ In collaboration with ACT, ROSA and the Subcommittees are maintaining an underst
 The maps are developed from location and deployment information shared by principal investigators and ACT. The following best practices ensure that information about new and completed deployments is shared so that the maps maintain their accuracy and relevance.
 
 ::: {.callout-note icon="false"}
-## Recommended Practice
+## Recommended Practices
 
 -   Share any instrument metadata using the [template provided by ACT](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ).
 
@@ -85,14 +85,16 @@ The locations of actively deployed PAM sensors on the Atlantic OCS can be viewed
 ### IV. Participate in Regional Telemetry Networks and set project to "public" {#participate}
 
 ::: {.callout-note icon="false"}
-## Recommended Practice
+## Recommended Practices
 
-Participate in the regional acoustic telemetry network for the study area (e.g., Atlantic Cooperative Telemetry Network (ACT), FACT Network, Ocean Tracking Network (OTN)).
+-   Participate in the regional acoustic telemetry network for the study area (e.g., Atlantic Cooperative Telemetry Network (ACT), FACT Network, Ocean Tracking Network (OTN)).
+
+-   Project data and metadata submitted to regional telemetry networks should be set to "public".
 :::
 
-Participation involves submitting all completed data products and metadata forms [(templates provided by ACT)](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ). Visit the ACT Network’s Data Portal, MATOS (<https://matos.asascience.com>), for the mid-Atlantic and Northeast U.S. or FACT (<https://secoora.org/fact>) for the Southeast U.S. for more information including User Agreements.
+Participation involves submitting all completed data products and metadata forms [(templates provided by ACT)](https://drive.google.com/drive/folders/1buFHbEu3Iy5YoVKUp9NULP2UNF78FcbQ).
 
-Project data and metadata submitted to regional telemetry networks should be set to "public".
+Visit the ACT Network’s Data Portal, MATOS (<https://matos.asascience.com>), for the mid-Atlantic and Northeast U.S. or FACT (<https://secoora.org/fact>) for the Southeast U.S. for more information including User Agreements.
 
 ------------------------------------------------------------------------
 
@@ -100,7 +102,11 @@ Project data and metadata submitted to regional telemetry networks should be set
 
 The purpose of the following steps is to ensure that the US Navy is aware of and can provide feedback on the precise location of bottom-mounted acoustic monitoring equipment on the Atlantic OCS. The Navy is requesting that all individuals consider the following steps prior to deployment. Developers may be subject to additional requirements under the BOEM issued permits.
 
-RWSC is coordinating with Beth Levy, Program Coordinator for the US Navy’s Ocean Observing Systems Situational Awareness Office (OOS SAO), so that the Navy may operate safely in the vicinity of deployed sensors. RWSC periodically shares data from the Research Planning Map directly with the Navy OOS SAO.
+::: {.callout-note icon="false"}
+## Recommended Practice
+
+RWSC periodically shares data from the Research Planning Map directly with Beth Levy, Program Coordinator for the US Navy’s Ocean Observing Systems Situational Awareness Office (OOS SAO), so that the Navy may operate safely in the vicinity of deployed sensors.
+:::
 
 Investigators may also email Beth Levy directly to share deployment plans for US Navy awareness: [beth.m.levy2.ctr\@us.navy.mil](mailto:beth.m.levy2.ctr@us.navy.mil)
 
@@ -138,7 +144,11 @@ This section provides an overview of steps to ensure consistent analysis of acou
 
 Raw data, metadata, and citations that are submitted to an Ocean Tracking Network OTN compatible regional networks (i.e., ACT or FACT) can also be transferred to global databases such as the [Ocean Biodiversity Information System](https://www.usgs.gov/ocean-biodiversity-information-system-usa) (OBIS) and/or [NOAA's National Centers for Environmental Information](https://www.ncei.noaa.gov/) (NCEI) upon request.
 
-Archiving data products through NCEI, OBIS, and other permanent archives will maintain the integrity of the data through standardized product delivery and make the data publicly accessible.
+::: {.callout-note icon="false"}
+## Recommended Practice
+
+Archive data products through NCEI, OBIS, and other permanent archives to maintain the integrity of the data through standardized product delivery and to make the data publicly discoverable.
+:::
 
 \[to be populated with content from *Bowers, et al. in prep*\]
 
