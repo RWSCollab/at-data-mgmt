@@ -28,7 +28,7 @@ website:
         href: https://github.com/RWSCollab/at-data-mgmt
         text: "github"
       - icon: cloud-download
-        href: https://rwsc.org
+        href: "/pdf/RWSC_ROSA_Acoustic_Telemetry_Recommended_Practices_Oct_2024.pdf"
         text: "download pdf"
 
     style: "floating"
