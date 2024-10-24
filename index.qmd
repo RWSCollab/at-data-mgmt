@@ -38,7 +38,7 @@ The purpose of this document is to address the data collection, management, and 
 This document supports a peer-reviewed publication, *in preparation*, led by Beth Bowers and Matt Ogburn, SERC/ACT. The draft manuscript, "Best practices for acoustic telemetry applications to offshore wind impact assessment" will provide recommendations for acoustic telemetry applied to the offshore wind community with respect to impact monitoring for offshore wind effects or contributions to the [NOAA Fisheries and BOEM Federal Survey Mitigation Implementation Strategy](https://repository.library.noaa.gov/view/noaa/47925). The paper will describe data management and governance best practices, the scientific questions that can be answered using acoustic telemetry alone or in concert with other data and technologies, key considerations for study designs, challenges associated with acoustic telemetry such as gear loss and data retrieval, and common practices that are currently used in data cleansing and analyses.
 :::
 
-The document is separated into three sections that correspond to a generic workflow for planning, deploying, and analyzing/interpreting acoustic telemetry data. Each section contains several detailed steps that were identified by ROSA and the RWSC Subcommittees.
+This document is separated into three sections that correspond to a generic workflow for planning, deploying, and analyzing/interpreting acoustic telemetry data. Each section contains several detailed steps that were identified by ROSA and the RWSC Subcommittees.
 
 ## 1. Planning & Coordination Steps {#planning}
 
@@ -72,11 +72,11 @@ The Research Planning Map and regional ocean data portals (<https://www.northeas
 
 Introducing new instruments and moorings into the environment presents an opportunity to co-locate other sensors and equipment. For example, several active and planned PAM deployments include support for acoustic telemetry receiver devices. This type of co-deployment builds the receiver network for studies of other taxa such as sea turtles and highly migratory fish species, and is strongly encouraged.
 
-While the location of PAM instruments and moored PAM arrays may not represent ideal receiver locations needed to address research questions answered with acoustic telemetry for other taxa, RWSC and its partners encourage the deployment of multiple sensors per mooring, when practicable, while research questions and best practices for acoustic telemetry are under development.
+While the location of PAM instruments and moored PAM arrays may not represent ideal receiver locations needed to address research questions answered with acoustic telemetry for other taxa, RWSC and its partners encourage the deployment of multiple sensors per mooring, when practicable, while research questions and best practices for acoustic telemetry are under development. Regardless, acoustic telemetry receivers codeployed on PAM moorings provide additional insight into animal movement and behavior.
 
-In August 2022, the RWSC Sea Turtle Subcommittee recommended that acoustic telemetry receivers be included on each new PAM deployment as the RWSC Marine Mammal Subcommittee considers the design and implementation of a regional PAM network.
+In August 2022, the RWSC Sea Turtle Subcommittee recommended that acoustic telemetry receivers be included on each new PAM deployment as the RWSC Marine Mammal Subcommittee considers the design and implementation of a regional PAM network. The Protected Fish Species Subcommittee then committed to working with the Marine Mammal Subcommittee to fully account for all codeployed acoustic telemetry receivers.
 
-The locations of actively deployed PAM sensors on the Atlantic OCS can be viewed in the [RWSC Research Planning Map](https://rwsc.org/map). Clicking on each point will open a popup box that indicates whether an acoustic telemetry receiver is codeployed with the PAM hydrophone.
+The locations of actively deployed PAM sensors on the Atlantic OCS can be viewed in the [RWSC Research Planning Map](https://rwsc.org/map). Clicking on each point will open a popup box that indicates whether an acoustic telemetry receiver is codeployed with the PAM hydrophone. Once a standalone acoustic telemetry layer is also added to the map, the locations of codeployed PAM-acoustic telemetry instrumentation will overlap.
 
 ![Map showing current passive acoustic monitoring (PAM) for baleen whales deployments in U.S. Atlantic waters. The highlighted instrument location north of Georges Bank shows a codeployed VR2AR (acoustic receiver) and FPOD (sensor to detect dolphin clicks). View an interactive version of this map: https://rwsc.org/map/?link=c8XVYns3.](images/pam_at_map.png){fig-align="center"}
 
